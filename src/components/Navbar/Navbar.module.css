@@ -1,0 +1,9 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(44, 122, 240);
+    
+  }
+
+  .navitem {
+    color: antiquewhite;
+  }
