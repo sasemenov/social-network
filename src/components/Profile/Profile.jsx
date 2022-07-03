@@ -8,7 +8,7 @@ const Profile = () => {
   </div>
 
   <div>
-    <img src=''/>ava + description
+   ava + description
   </div>
 <MyPosts />
  </div>
